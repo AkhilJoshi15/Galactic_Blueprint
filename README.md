@@ -1,4 +1,4 @@
-# Cosmic-Canvas
+# GalacticBlueprint
 #### Revealing Galactic Arms!
 
 - Utilized transfer learning with the pre-trained ResNet50 model on ImageNet for galaxy image analysis.
