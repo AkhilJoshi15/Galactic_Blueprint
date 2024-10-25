@@ -7,4 +7,4 @@
 - Outlined galaxy arms on one hundred thousand images using the cGAN.
 - Future prospects involve scripting for automated arm counting and curvature analysis, aiming for a comprehensive galactic study to further explore the mysteries of the cosmos.
   
-![72100068484917136](https://github.com/SaiTeja-Erukude/Cosmic-Canvas/assets/72928639/9b9ad2c0-fa10-429a-bc3b-726b3cee401b)
+![72100068484917136](https://github.com/AkhilJoshi15/Galactic_Blueprint/blob/1a2fbae7e0a80e46a549934ad6cb9402f76b6376/galaxy%20arm.png)
